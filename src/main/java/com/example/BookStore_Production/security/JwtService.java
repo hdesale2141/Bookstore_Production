@@ -14,7 +14,7 @@ import java.util.Date;
 @Service
 public class JwtService {
 
-//   bXlzZWNyZXRrZXlteXNlY3JldGtleW15c2VjcmV0a2V5MTIzNDU2Nzg5MDEyMzQ1Ng
+//    bXlzZWNyZXRrZXlteXNlY3JldGtleW15c2VjcmV0a2V5MTIzNDU2Nzg5MDEyMzQ1Ng
     @Value("${JWT_SECRET}")
     private String SECRET_KEY;
 
